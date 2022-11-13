@@ -1,9 +1,9 @@
 # Portfolio 
 by Montserrat Delgado Velazquez 
 
-> Netlify: (URL)
+> Netlify: [Portfolio Netlify](https://timely-sorbet-2f7b60.netlify.app/)
 
-> GitHub: (URL)
+> GitHub: [GitHub Portfolio](https://github.com/montse-velazquez/MontserratDelgado_T1A2)
 
 > Presentation: [Presentation](https://youtu.be/J1Tre7iGTnY)
 
